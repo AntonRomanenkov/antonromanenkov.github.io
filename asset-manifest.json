@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43eece73.css",
+    "main.js": "/static/js/main.29d662f0.js",
+    "static/media/Stay Dreaming Regular.ttf": "/static/media/Stay Dreaming Regular.5f41e4323ae718ea1439.ttf",
+    "static/media/casangelina.com.jpg": "/static/media/casangelina.com.45ef4ded7b9f413bce1e.jpg",
+    "static/media/brooksandfalotico.com.jpg": "/static/media/brooksandfalotico.com.eec7902c528a32aa9001.jpg",
+    "static/media/globaxlimousine.com.jpg": "/static/media/globaxlimousine.com.ee8737dc5850c5182708.jpg",
+    "static/media/blues-d.co.jp.jpg": "/static/media/blues-d.co.jp.6f9c038c583a4addb08b.jpg",
+    "static/media/google analytics.jpg": "/static/media/google analytics.ce0955023dbceed7e5f0.jpg",
+    "static/media/kinsta.jpg": "/static/media/kinsta.c1a88a17c4f9bce863bc.jpg",
+    "static/media/novoholdings.dk.jpg": "/static/media/novoholdings.dk.980d207755304b2c44ec.jpg",
+    "static/media/bastide.com.jpg": "/static/media/bastide.com.ae3e7bb49bf62649ed10.jpg",
+    "static/media/eu.54celsius.com.jpg": "/static/media/eu.54celsius.com.43055a67d75ce7cab99b.jpg",
+    "static/media/hugeinc.com.jpg": "/static/media/hugeinc.com.0b83c9c5b3145585d52e.jpg",
+    "static/media/roclivelifeloud.com.jpg": "/static/media/roclivelifeloud.com.bacec5d5bae0d26cdd1b.jpg",
+    "static/media/poland.png": "/static/media/poland.c48d64b1f96aafeab7ff.png",
+    "static/media/globe2.svg": "/static/media/globe2.49f76029015fad74a47a3551b2ae34fa.svg",
+    "index.html": "/index.html",
+    "main.43eece73.css.map": "/static/css/main.43eece73.css.map",
+    "main.29d662f0.js.map": "/static/js/main.29d662f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43eece73.css",
+    "static/js/main.29d662f0.js"
+  ]
+}
